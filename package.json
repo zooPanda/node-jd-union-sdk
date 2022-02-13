@@ -1,0 +1,20 @@
+{
+  "name": "node-jd-union-sdk",
+  "version": "1.0.0",
+  "description": "京东联盟Node.JS SDK",
+  "main": "dist/app.js",
+  "repository": "git@github.com:zooPanda/node-jd-union-sdk.git",
+  "author": "zooPanda<i@czzz.io>",
+  "license": "GLP",
+  "private": false,
+  "homepage": "https://github.com/zooPanda/node-jd-union-sdk/blob/main/README.md",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "date-fns": "^2.28.0"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/date-fns": "^2.6.0",
+    "@types/node": "^17.0.17"
+  }
+}
